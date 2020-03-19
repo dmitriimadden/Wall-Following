@@ -1,8 +1,7 @@
 # Wall-Following.py
 Wall-following and Collision Detection algorithm for a robot using Distance Sensors.
 
-Implementation of the program called “wallFollowing.py”. The program makes the robot follow the
-walls, for both corridor and maze, as shown in Figure 3. When the robot reaches 12 inches from
+The program makes the robot follow the walls, for both corridor and maze, as shown in Figure 3. When the robot reaches 12 inches from
 any end wall it should make a 90 degree turn (or 180 degree turn if it cannot move forward, turn
 left or right) and continue wall following in the new direction. The robot moves at a
 minimum linear velocity of 3 inches per second, except when turning. Tasks must be completed
