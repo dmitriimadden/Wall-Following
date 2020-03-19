@@ -5,9 +5,10 @@ The program makes the robot follow the walls, for both corridor and maze, as sho
 any end wall it should make a 90 degree turn (or 180 degree turn if it cannot move forward, turn
 left or right) and continue wall following in the new direction. The robot moves at a
 minimum linear velocity of 3 inches per second, except when turning. Tasks must be completed
-in a max of 3 minutes. Actual paths may vary during presentation.
+in a max of 3 minutes.
 
 ![Figure 3](https://psv4.userapi.com/c856328/u10881347/docs/d17/c4c4ef34990e/s.png?extra=l3iC4ctwePmaLGOz1ptcpepqIegCAYAxgGoGw7D4bv3m7RO_gnblWillZih3MUePEEwxlQ2p0cngqDySncAT-cL89xajV3pQst7SUCJ0eDnF9nGwHa56LKae_1RaW7Yx65RFP1HvDnV9KN0cLC1Lk8wg)
+
 Figure 3 (Left) Corridor Wall-Following task. Figure 3 (Right) Maze Wall-Following Task.
 
 
