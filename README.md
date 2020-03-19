@@ -7,7 +7,7 @@ left or right) and continue wall following in the new direction. The robot moves
 minimum linear velocity of 3 inches per second, except when turning. Tasks must be completed
 in a max of 3 minutes. Actual paths may vary during presentation.
 
-![Figure 3](https://psv4.userapi.com/c856328/u10881347/docs/d17/c4c4ef34990e/s.png)
+![Figure 3](https://psv4.userapi.com/c856328/u10881347/docs/d17/c4c4ef34990e/s.png?extra=l3iC4ctwePmaLGOz1ptcpepqIegCAYAxgGoGw7D4bv3m7RO_gnblWillZih3MUePEEwxlQ2p0cngqDySncAT-cL89xajV3pQst7SUCJ0eDnF9nGwHa56LKae_1RaW7Yx65RFP1HvDnV9KN0cLC1Lk8wg)
 Figure 3 (Left) Corridor Wall-Following task. Figure 3 (Right) Maze Wall-Following Task.
 
 
@@ -19,7 +19,7 @@ Two plots, one per maze (Figure 3 left and right), showing distances from each s
 Measured every 100 milliseconds.
 
 Graph representation of the different saturation values from sensors to the power of the wheels. 
-![Saturation K graph](https://psv4.userapi.com/c856220/u10881347/docs/d4/b04f0d5c462d/s.png)
+![Saturation K graph](https://psv4.userapi.com/c856220/u10881347/docs/d4/b04f0d5c462d/s.png?extra=4hdmz-NO5ZEroHxAAf_hY1ixeXNHSzbpvlcumH26GtmO5fwL6cEDrjsNLz4eGkbhmBdZGDMLWwHpdij7kdBO5EPqr68X0J9CtV4lb5IzWffCloAkj5nWEuKBwrXB-ZczAHA-O4p5FQbMxda80hjHaXdl)
 
 Video:
 [![Watch the video](https://img.youtube.com/vi/L3jJf1lHEZY/maxresdefault.jpg)](https://youtu.be/L3jJf1lHEZY)
