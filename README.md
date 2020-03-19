@@ -1,2 +1,2 @@
 # Wall-Following
-Distance Sensors and PID Control
+Wall-following and Collision Detection algorithm for a robot using Distance Sensors.
